@@ -11,7 +11,7 @@ This repository only hosts **builds for testers**. The source code is private.
 
 Get the latest `.dmg` from **[Releases](../../releases/latest)**.
 
-1. Open `AIrways-1.0.dmg`.
+1. Open the downloaded `AIrways-<version>.dmg`.
 2. Drag **AIrways** into **Applications**.
 3. Open it from Applications. The app is signed and notarized by Apple, so it opens without security warnings.
 
